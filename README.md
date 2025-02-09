@@ -1,2 +1,2 @@
 # momentum-research
-Harvest, analysis and visualization of stock market data to discover actionable trends
+Downloads, analyzes and visualizes stock market data to discover actionable trends
